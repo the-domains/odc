@@ -1,0 +1,28 @@
+name: ODC
+favicon: null
+layout_spectrum: 0.008758450858294964
+typography_spectrum: 0.03831838094629347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.12914476869627833
+  lightness: 0.6969500824343413
+  saturation: 0.3154709932859987
+  rhythmicContrast: 0.5986611179541796
+purpose: []
